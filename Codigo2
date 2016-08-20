@@ -1,0 +1,6 @@
+#include<stdio.h> 
+int main(){
+printf(“Espero no volver a reprobar ”); 
+printf(“Me gusta hacer esto :D”);
+return 0;
+}
