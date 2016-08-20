@@ -1,6 +1,7 @@
 #include<stdio.h> 
 int main(){
-printf(“Espero no volver a reprobar ”); 
-printf(“Me gusta hacer esto :D”);
+printf(“\nEspero no volver a reprobar\n”); 
+printf(“\nMe gusta hacer esto :D\n”);
+prittf("\nCastillo Colunga Mercedes\n");
 return 0;
 }
