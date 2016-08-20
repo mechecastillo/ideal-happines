@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+  printf("\nHola Mundo\n");
+  printf("\nqQue felix soy :D\n");
+  printf("\nCastillo Colunga Mercedes\n");
+  return 0;
+}
